@@ -1,6 +1,6 @@
 # The False Sun - A Field Note for New Players
 
-![The False Sun cover](https://s.thefalsesun.org/games/the-false-sun/the-false-sun-cover.webp)
+![Silas under the false light](https://s.thefalsesun.org/games/the-false-sun/the-false-sun-gallery-1.webp)
 
 **Play the browser version:** [The False Sun](https://thefalsesun.org/ "The False Sun")
 
