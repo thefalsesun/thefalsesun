@@ -1,6 +1,6 @@
 # The False Sun - A Field Note for New Players
 
-![Silas under the false light](https://s.thefalsesun.org/games/the-false-sun/the-false-sun-gallery-1.webp)
+![The False Sun cover](https://s.thefalsesun.org/games/the-false-sun/the-false-sun-cover.webp)
 
 **Play the browser version:** [The False Sun](https://thefalsesun.org/ "The False Sun")
 
@@ -28,13 +28,29 @@ Those questions give The False Sun a slower, more thoughtful kind of suspense. I
 
 The images below are useful because they show the game's range without explaining the plot away. There is domestic stillness, character focus, emotional closeness, and a repeated sense that something just outside the frame matters.
 
-| Character Presence | Quiet Pressure |
-| --- | --- |
-| ![Character close-up from The False Sun](https://s.thefalsesun.org/games/the-false-sun/the-false-sun-gallery-2.webp) | ![A tense rural scene from The False Sun](https://s.thefalsesun.org/games/the-false-sun/the-false-sun-gallery-3.webp) |
+### Character Presence
 
-| Soft Light | Uneasy Distance |
-| --- | --- |
-| ![A warm scene from The False Sun](https://s.thefalsesun.org/games/the-false-sun/the-false-sun-gallery-4.webp) | ![A quiet moment from The False Sun](https://s.thefalsesun.org/games/the-false-sun/the-false-sun-gallery-5.webp) |
+![Character close-up from The False Sun](https://s.thefalsesun.org/games/the-false-sun/github-character-presence.webp)
+
+This frame keeps the attention close. The expression is readable at first, then harder to trust.
+
+### Quiet Pressure
+
+![A tense rural scene from The False Sun](https://s.thefalsesun.org/games/the-false-sun/github-quiet-pressure.webp)
+
+The rural backdrop gives the story room to breathe, yet the composition still feels watched.
+
+### Soft Light
+
+![A warm scene from The False Sun](https://s.thefalsesun.org/games/the-false-sun/github-soft-light.webp)
+
+Warmth is one of the game's strongest tools. The brighter moments feel welcoming, then complicated.
+
+### Uneasy Distance
+
+![A quiet moment from The False Sun](https://s.thefalsesun.org/games/the-false-sun/github-uneasy-distance.webp)
+
+The quieter images give the story its rhythm and leave room for what is unsaid.
 
 The screenshots also explain why the browser presentation matters. The False Sun is not a game that needs complicated controls to prove its value. It needs space for reading, atmosphere, and attention. A clean web page keeps the focus on the story and makes it easier for new players to decide whether the mood is right for them.
 
